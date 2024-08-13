@@ -13,16 +13,16 @@
 + **스택이 2개가 쌓이면 강퇴**
 
 
-> 예진 : https://github.com/yezini/programmers  
 > 태환 : https://taehwanis.github.io/  
 > 우형 : https://github.com/woohyung0511/CNF_Coding_Study  
 > 혜원 : https://github.com/reeHW/algorithm  
 > 승준 : https://github.com/seungjun0502/codingStudy  
-> 현정 : https://github.com/annie9434/CNFCodingTest  
-> 재우 : [https://github.com/Ajaewoo](https://github.com/Ajaewoo/codingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)
+> 현정 : https://github.com/annie9434/CNFCodingTest
 
 
 ~~👑민재🪦🪦⚰️⚰️ : https://github.com/alswo1212/CNF_codingTest_sturdy~~  
+~~예진 : https://github.com/yezini/programmers~~  
+~~재우 : [https://github.com/Ajaewoo](https://github.com/Ajaewoo/codingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)~~  
 ~~인형 : https://github.com/hih5921/CodeTest/tree/master/CodingTest/src~~  
 ~~영남 : https://github.com/nuobasic/Algorithm_Study~~  
 ~~찬교 : https://github.com/moriborissal/CNFSYSTEM~~  
